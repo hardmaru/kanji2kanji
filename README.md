@@ -22,9 +22,8 @@ MIT
 
 ## Data License
 
-The license for the datasets are to be defined as:
-
 The stroke-based Kanji is derived from [KanjiVG](https://kanjivg.tagaini.net/) project.
+
 The Kuzushiji Kanji data derived from the [Kuzushiji-MNIST](https://github.com/rois-codh/kmnist) project.
 
 ## Citation
