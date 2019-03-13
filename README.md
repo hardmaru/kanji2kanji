@@ -2,7 +2,7 @@
 
 ![Kanji2Kanji](/img/kanji2kanji.png?raw=true)
 
-Reproduce domain transfer results in [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718)
+This repo contains instructions to reproduce the domain transfer results in the paper [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718).
 
 ## Versions
 
