@@ -1,5 +1,7 @@
 # Kanji2Kanji
 
+![Kanji2Kanji](/img/kanji2kanji.png?raw=true)
+
 Reproduce domain transfer results in [Deep Learning for Classical Japanese Literature](https://arxiv.org/abs/1812.01718)
 
 ## Versions
