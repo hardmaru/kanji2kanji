@@ -1,5 +1,6 @@
 # Train all the required models
 
+import os
 os.environ["CUDA_VISIBLE_DEVICES"]="0" # make TF only use the first GPU.
 
 # imports
