@@ -6,11 +6,11 @@ This repo contains instructions to reproduce the domain transfer results in the 
 
 ## Versions
 
-Tested on TensorFlow 1.8.0, scipy 0.19.1, numpy 1.13.3
+Tested on TensorFlow 1.8.0, scipy 0.19.1, numpy 1.13.3, python 3.5
 
 ## Instructions
 
-First run `build_data.py` to construct the Kanji dataset.
+First run `python build_data.py` to construct the Kanji dataset.
 
 To train models, run `python train.py` to train all models, and run trained models on test set afterwards.
 
